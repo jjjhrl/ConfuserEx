@@ -37,3 +37,4 @@ ConfuserEx.snk
 GlobalAssemblyInfo.cs
 /Build/*.zip
 !Build/7z.exe
+Confuser2.userprefs
