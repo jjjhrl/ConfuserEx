@@ -6,6 +6,14 @@ ConfuserEx is a open-source protector for .NET applications.
 
 [ConfuserEx](http://yck1509.github.io/ConfuserEx/)
 
+Run on OSX
+----------
+
+Add this into your crpoj files (after modules) :
+
+```
+<probePath>/Library/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/</probePath>
+```
 
 License
 -------
